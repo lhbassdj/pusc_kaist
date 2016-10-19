@@ -1,0 +1,4 @@
+<launch>
+  <node name="drone_tracking" pkg="tum_ardrone" type="drone_tracking">
+  </node>
+</launch>
