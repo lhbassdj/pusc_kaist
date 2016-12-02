@@ -1,10 +1,10 @@
-# pusc_kaist
+# PUSP_kaist
 
 Welcome!
 
 This is Dongjin Kim, xs3d laboratory member in KAIST IE, Republic of Korea. My research topic is vision-processing and system optimization.
 
-PUSC stands Persistant UAV Security Companion in KAIST, Republic of Korea. UAV swarm can be used widely such as border patrol, rescue work, or security companion for returning home safe.
+PUSP stands Persistant UAV Security Presence in KAIST, Republic of Korea. UAV swarm can be used widely such as border patrol, rescue work, or security companion for returning home safe. In our PUSP, UAVs provide security companion service to people!
 
 Parrot ArDrone has been used as UAV, and ROS tum_ardrone package as UAV control program.
 
