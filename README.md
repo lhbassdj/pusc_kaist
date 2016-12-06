@@ -1,4 +1,4 @@
-# PUSP_kaist
+# PUSP_kaist_vision2.0
 
 Welcome!
 
